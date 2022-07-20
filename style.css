@@ -1,0 +1,14 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: auto;
+    height:300px;
+} 
+
+img.classF{
+    height:300px;
+    width: 186px;
+
+}
